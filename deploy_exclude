@@ -1,0 +1,6 @@
+.DS_Store
+.git
+application/cache/
+application/logs/
+deploy/
+deploy_backup.tar
